@@ -7,4 +7,4 @@
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Howto-configure-VS2022-to-build-.EFI-executables#howto-configure-vs2022-to-build-efi-executables)](https://github.com/KilianKegel/Howto-configure-VS2022-to-build-.EFI-executables#howto-configure-vs2022-to-build-efi-executables) [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=git-for-gits)](https://github.com/KilianKegel/git-for-gits)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Howto-configure-DDK-and-WDK-for-Standard-C-usage)](https://github.com/KilianKegel/Howto-configure-DDK-and-WDK-for-Standard-C-usage) 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=HowTo-setup-a-YOCTO-Development-PC)](https://github.com/KilianKegel/HowTo-setup-a-YOCTO-Development-PC)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Howto-setup-a-YOCTO-Development-PC)](https://github.com/KilianKegel/Howto-setup-a-YOCTO-Development-PC)
